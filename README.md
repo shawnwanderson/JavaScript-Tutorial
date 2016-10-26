@@ -1,7 +1,3 @@
-# Fetch lates changes!
-1. git fetch origin master
-2. git merge origin master
-
 # JavaScript-Tutorial
 Master JavaScript and GitHub at the same time! Fork this repo and develop a project with guidance!
 
