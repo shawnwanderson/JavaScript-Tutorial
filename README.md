@@ -1,3 +1,9 @@
+# To Begin The Tutorial
+Fork me on github
+clone your fork
+fetch the first tutorial branch
+checkout that branch
+begin developing JavaScript!
 # JavaScript-Tutorial
 Master JavaScript and GitHub at the same time! Fork this repo and develop a project with guidance!
 
