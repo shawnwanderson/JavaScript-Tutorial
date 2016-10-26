@@ -1,3 +1,8 @@
+#Pull Me!
+git add remote origin tutorial1
+git fetch origin tutorial1
+git merge origin tutorial1
+
 # JavaScript-Tutorial
 Master JavaScript and GitHub at the same time! Fork this repo and develop a project with guidance!
 
