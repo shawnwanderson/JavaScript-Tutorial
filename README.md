@@ -7,14 +7,12 @@ I wanted to spend the evening re-learning Java-Script while at the same time pra
 I am learning, thus highly appreciate feedback or contributions from anyone else. Thanks
 
 # To Begin The Tutorial
-1. Fork me on github
+1. Fork The Master Branch on GitHub 
 2. clone your fork
   *git clone [YOUR URL]
-3. fetch the first tutorial branch
-  *git add remote origin tutorial1
-  *git fetch origin tutorial1
-4. checkout that branch
-  *git checkout tutorial1
+3. make a branch called tutorial1
+  *git checkout -b tutorial1
+  *git pull origin tutorial1
 5. begin developing JavaScript!
 
 
